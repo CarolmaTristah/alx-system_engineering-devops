@@ -1,1 +1,1 @@
-Three list files
+Display all files including the hiddein ones
