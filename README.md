@@ -1,1 +1,2 @@
-My first readme
+#!/bin/bash
+First Directory in shell permissions
